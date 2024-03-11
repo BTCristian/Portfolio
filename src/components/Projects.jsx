@@ -28,7 +28,7 @@ export const Projects = () => {
         <ProjectItem img={NcNewsProjectImg} title="News App" />
         <ProjectItem img={LwBProjectImg} title="LwB App" />
       </div>
-      Projects
+     
     </div>
   );
 };
