@@ -10,7 +10,7 @@ export const Main = () => {
         src="https://www.datocms-assets.com/38195/1606473114-office-work.jpg"
         alt="image of a woking office"
       />
-      <div className="w-full h-screen absolute top-0 let-0 bg-white/50">
+      <div className="w-full h-screen absolute top-0 let-0 bg-white/75">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
           <div>
             <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
