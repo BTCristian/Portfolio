@@ -15,9 +15,9 @@ export const Projects = () => {
         Projects
       </h1>
       <p className="text-center py-8 text-[#001b5e]">
-        Fullstack projects developed using tech like: JavaScript, Node JS, React
+        Fullstack projects developed using tech like JavaScript, Node JS, React
         JS, Vite, Express JS, Axios, PotgreSQL, MongoDB, Firebase, WebRTC, Agora
-        SDK, CSS, HTML, Tailwind CSS. Some of those projects are deplyed and
+        SDK, CSS, HTML, Tailwind CSS. Some of those projects are deployed and
         live. Please try them here:
       </p>
       <div className="grid gap-12 text-center font-bold text-[blue] p-4 m-4">
