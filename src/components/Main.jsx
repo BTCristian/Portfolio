@@ -37,9 +37,8 @@ export const Main = () => {
             </h2>
             <div className="flex justify-between pt-6 max-w-[200px] w-full">
               <a href="https://github.com/BTCristian"><FaGithub size={20} className="cursor-pointer"  /></a>
-              
-              <FaLinkedin size={20} className="cursor-pointer" />
-              <FaTwitter size={20} className="cursor-pointer" />
+              <a href="https://www.linkedin.com/in/tiberiucristianb28/"><FaLinkedin size={20} className="cursor-pointer" /></a>
+              <a href="https://twitter.com/BTCris21"><FaTwitter size={20} className="cursor-pointer" /></a>              
             </div>
           </div>
         </div>
