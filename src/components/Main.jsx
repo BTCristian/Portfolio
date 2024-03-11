@@ -36,7 +36,7 @@ export const Main = () => {
               />
             </h2>
             <div className="flex justify-between pt-6 max-w-[200px] w-full">
-              <FaGithub size={20} className="cursor-pointer" />
+              <FaGithub size={20} className="cursor-pointer" href="https://github.com/BTCristian" />
               <FaLinkedin size={20} className="cursor-pointer" />
               <FaTwitter size={20} className="cursor-pointer" />
             </div>
