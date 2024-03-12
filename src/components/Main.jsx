@@ -28,11 +28,13 @@ export const Main = () => {
                   2000,
                   "Tech Enthusiast",
                   2000,
-                  "IT Hardware Engineer",
+                  "Helpdesk/IT Support 1nd&2nd",
                   2000,
-                  "IT Support Technician",
+                  "Computer Hardware IT Technician",
                   2000,
                   "Coffee lover",
+                  2000,
+                  "Professional driver",
                   2000,
                 ]}
                 wrapper="span"
