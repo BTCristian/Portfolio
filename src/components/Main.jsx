@@ -24,9 +24,15 @@ export const Main = () => {
                   2000,
                   "Full-stack Software Developer",
                   2000,
-                  "Coder",
+                  "Programmer and I enjoy coding",
                   2000,
                   "Tech Enthusiast",
+                  2000,
+                  "IT Hardware Engineer",
+                  2000,
+                  "IT Support Technician",
+                  2000,
+                  "Coffee lover",
                   2000,
                 ]}
                 wrapper="span"
