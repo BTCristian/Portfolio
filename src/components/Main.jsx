@@ -28,7 +28,7 @@ export const Main = () => {
                   2000,
                   "Tech Enthusiast",
                   2000,
-                  "1st&2nd Line Support Technician",
+                  "1st&2nd Line Support|Helpdesk",
                   2000,
                   "Hardware IT Technician",
                   2000,
