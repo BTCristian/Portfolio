@@ -14,7 +14,7 @@ export const Main = () => {
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
           <div>
             <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
-              I'm Cristian Badea
+              Hi! I'm Cristian Badea,
             </h1>
             <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
               I'm a
