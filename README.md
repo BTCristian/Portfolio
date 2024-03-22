@@ -4,7 +4,7 @@ Hi! My name is Cristian and this is my current Portfolio. It will be updated per
 
 # Tech stack
 
- | JavaScript 
+   JavaScript 
  | React and Vite 
  | Tailwind CSS 
  | React Icons 
