@@ -1,4 +1,4 @@
-# Portofolio
+# Portfolio
 
 Hi! My name is Cristian B and this is my current Portfolio. It will be updated periodically, thanks for visiting!
 
