@@ -1,6 +1,6 @@
 # Portofolio
 
-This is my current Portofolio, thanks for visiting!
+Hi! My name is Cristian B and this is my current Portfolio. It will be updated periodically, thanks for visiting!
 
 # Tech stack
 
