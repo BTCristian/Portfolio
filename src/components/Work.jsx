@@ -2,15 +2,15 @@ import React from "react";
 import TechStackImg from "../assets/techstack.png";
 const data = [
   {
-    year: *,
-    title: "*",
+    year: 2023,
+    title: "Software Developer",
     duration: "3 Years",
     details:
       "afgasfddsjk asjndaiowed asdnaierfmwsefasd asdjasiohwefr asidjaeifjwef asidjaosdq aosdjsuidhfertg, jkonasdnawdwad",
   },
   {
-    year: *,
-    title: "*",
+    year: 2021,
+    title: "Software Developer",
     duration: "3 Years",
     details:
       "afgasfddsjk asjndaiowed asdnaierfmwsefasd asdjasiohwefr asidjaeifjwef asidjaosdq aosdjsuidhfertg, jkonasdnawdwad",
