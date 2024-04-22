@@ -22,19 +22,15 @@ export const Main = () => {
                 sequence={[
                   "Software Engineer",
                   2000,
-                  "Full-stack Software Developer",
+                  "Fullstack Software Developer",
                   2000,
                   "Programmer and I enjoy coding",
                   2000,
                   "Tech Enthusiast",
                   2000,
-                  "1st&2nd Line Support|Helpdesk",
-                  2000,
-                  "Hardware IT Technician",
+                  "Helpdesk Support",
                   2000,
                   "Coffee lover",
-                  2000,
-                  "Professional Driver",
                   2000,
                 ]}
                 wrapper="span"
