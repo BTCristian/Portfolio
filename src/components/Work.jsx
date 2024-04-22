@@ -46,7 +46,8 @@ export const Work = () => {
           natural curiosity and problem-solving abilities, has fuelled my
           long-standing desire to pursue a career in software development. To
           bridge the gap and acquire the specialized skill set, I've embarked on
-          the Software Engineering Bootcamp at Northcoders.
+          the Software Engineering Bootcamp at Northcoders. 
+          Tech-stack used so far: JavaScript, NodeJS, Express, React, React Native, HTML, CSS, Tailwind CSS, Bootstrap, NativeWind, Expo, Axios, Firebase, MongoDB, PostgreSQL, ElephantSQL, Appwrite, WebRTC, Agora, Jest, Rest.test
         </p>
         <img src={TechStackImg} alt="" />
       </div>
