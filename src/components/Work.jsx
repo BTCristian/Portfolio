@@ -43,11 +43,16 @@ export const Work = () => {
           complex challenges. My experience in IT Support has enhanced my
           communication skills, enabling me to collaborate effectively and
           deliver exceptional customer service. This foundation, coupled with my
-          natural curiosity and problem-solving abilities, has fuelled my
+          natural curiosity and problem-solving abilities, have fuelled my
           long-standing desire to pursue a career in software development. To
           bridge the gap and acquire the specialized skill set, I've embarked on
-          the Software Engineering Bootcamp at Northcoders where I gained and practiced my skills. I am constantly learning and seeking opportunities to expand my skill set and take on new challenges. 
-          Tech-stack I've used so far: JavaScript, NodeJS, Express, React, React Native, HTML, CSS, Tailwind CSS, Bootstrap, NativeWind, Expo, Axios, Firebase, MongoDB, PostgreSQL, ElephantSQL, Appwrite, WebRTC, Agora, Jest, Rest.test .
+          the Software Engineering Bootcamp at Northcoders where I gained and 
+          practiced my software development skills. I am constantly learning and 
+          seeking opportunities to expand my skill set and take on new challenges. 
+          Tech-stack I've used so far: JavaScript, NodeJS, Express, React, 
+          React Native, HTML, CSS, Tailwind CSS, Bootstrap, NativeWind, Expo, 
+          Axios, Firebase, MongoDB, PostgreSQL, ElephantSQL, Appwrite, WebRTC, 
+          Agora, Jest, Rest.test.
         </p>
         <img src={TechStackImg} alt="" />
       </div>
